@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 7219-CFDB
+
+ Directory of C:\Users\LENOVO\Desktop\MyProject
+
+05/19/2020  10:49 AM    <DIR>          .
+05/19/2020  10:49 AM    <DIR>          ..
+05/19/2020  10:49 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  246,747,324,416 bytes free
